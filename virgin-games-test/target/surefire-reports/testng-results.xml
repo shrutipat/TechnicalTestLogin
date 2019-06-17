@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-06-10T21:49:45Z" name="Surefire suite" finished-at="2019-06-10T21:53:43Z" duration-ms="238437">
+    <groups>
+    </groups>
+    <test started-at="2019-06-10T21:49:45Z" name="Surefire test" finished-at="2019-06-10T21:53:43Z" duration-ms="238437">
+      <class name="com.virgingames.webpages.TestSuit">
+        <test-method is-config="true" signature="setUpBeforeClass()[pri:0, instance:com.virgingames.webpages.TestSuit@6379eb]" started-at="2019-06-10T21:49:45Z" name="setUpBeforeClass" finished-at="2019-06-10T21:49:46Z" duration-ms="1266" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeClass -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.virgingames.webpages.TestSuit@6379eb]" started-at="2019-06-10T21:49:46Z" name="setUp" finished-at="2019-06-10T21:52:01Z" duration-ms="134579" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verify_That_User_Is_Navigated_To_Login_Page_Successfully()[pri:0, instance:com.virgingames.webpages.TestSuit@6379eb]" started-at="2019-06-10T21:52:01Z" name="verify_That_User_Is_Navigated_To_Login_Page_Successfully" finished-at="2019-06-10T21:52:12Z" duration-ms="11165" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_That_User_Is_Navigated_To_Login_Page_Successfully -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.virgingames.webpages.TestSuit@6379eb]" started-at="2019-06-10T21:52:12Z" name="tearDown" finished-at="2019-06-10T21:52:16Z" duration-ms="3423" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verify_That_User_Is_Navigated_To_Login_Page_Successfully status=SUCCESS method=TestSuit.verify_That_User_Is_Navigated_To_Login_Page_Successfully()[pri:0, instance:com.virgingames.webpages.TestSuit@6379eb] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.virgingames.webpages.TestSuit@6379eb]" started-at="2019-06-10T21:52:16Z" name="setUp" finished-at="2019-06-10T21:52:40Z" duration-ms="24661" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verify_That_User_Login_Fails_With_Invalid_Credentials(java.lang.String, java.lang.String)[pri:0, instance:com.virgingames.webpages.TestSuit@6379eb]" started-at="2019-06-10T21:52:40Z" name="verify_That_User_Login_Fails_With_Invalid_Credentials" data-provider="inputs" finished-at="2019-06-10T21:52:49Z" duration-ms="8874" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[username111]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password111]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_That_User_Login_Fails_With_Invalid_Credentials -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.virgingames.webpages.TestSuit@6379eb]" started-at="2019-06-10T21:52:49Z" name="tearDown" finished-at="2019-06-10T21:52:51Z" duration-ms="2136" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verify_That_User_Login_Fails_With_Invalid_Credentials status=SUCCESS method=TestSuit.verify_That_User_Login_Fails_With_Invalid_Credentials(java.lang.String, java.lang.String)[pri:0, instance:com.virgingames.webpages.TestSuit@6379eb] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.virgingames.webpages.TestSuit@6379eb]" started-at="2019-06-10T21:52:51Z" name="setUp" finished-at="2019-06-10T21:53:07Z" duration-ms="15319" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verify_That_User_Login_Fails_With_Invalid_Credentials(java.lang.String, java.lang.String)[pri:0, instance:com.virgingames.webpages.TestSuit@6379eb]" started-at="2019-06-10T21:53:07Z" name="verify_That_User_Login_Fails_With_Invalid_Credentials" data-provider="inputs" finished-at="2019-06-10T21:53:13Z" duration-ms="6093" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[username222]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password222]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_That_User_Login_Fails_With_Invalid_Credentials -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.virgingames.webpages.TestSuit@6379eb]" started-at="2019-06-10T21:53:13Z" name="tearDown" finished-at="2019-06-10T21:53:16Z" duration-ms="3432" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verify_That_User_Login_Fails_With_Invalid_Credentials status=SUCCESS method=TestSuit.verify_That_User_Login_Fails_With_Invalid_Credentials(java.lang.String, java.lang.String)[pri:0, instance:com.virgingames.webpages.TestSuit@6379eb] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.virgingames.webpages.TestSuit@6379eb]" started-at="2019-06-10T21:53:16Z" name="setUp" finished-at="2019-06-10T21:53:33Z" duration-ms="17095" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verify_That_User_Login_Fails_With_Invalid_Credentials(java.lang.String, java.lang.String)[pri:0, instance:com.virgingames.webpages.TestSuit@6379eb]" started-at="2019-06-10T21:53:33Z" name="verify_That_User_Login_Fails_With_Invalid_Credentials" data-provider="inputs" finished-at="2019-06-10T21:53:42Z" duration-ms="8714" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[username333]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password333]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_That_User_Login_Fails_With_Invalid_Credentials -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.virgingames.webpages.TestSuit@6379eb]" started-at="2019-06-10T21:53:42Z" name="tearDown" finished-at="2019-06-10T21:53:43Z" duration-ms="1532" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verify_That_User_Login_Fails_With_Invalid_Credentials status=SUCCESS method=TestSuit.verify_That_User_Login_Fails_With_Invalid_Credentials(java.lang.String, java.lang.String)[pri:0, instance:com.virgingames.webpages.TestSuit@6379eb] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.virgingames.webpages.TestSuit -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

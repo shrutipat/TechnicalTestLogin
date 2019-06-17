@@ -1,0 +1,68 @@
+2019-06-10 22:06:384 INFO  HomePage :22 - user clicks on Login Link
+2019-06-10 22:06:443 INFO  LoginPage :30 - verify that user is on Login page
+2019-06-10 22:06:90 INFO  HomePage :22 - user clicks on Login Link
+2019-06-10 22:06:92 INFO  LoginPage :40 - enter user name
+2019-06-10 22:06:795 INFO  LoginPage :46 - enter password
+2019-06-10 22:06:189 INFO  LoginPage :52 - click on login button
+2019-06-10 22:06:445 INFO  LoginPage :58 - verify that error message is displayed
+2019-06-10 22:06:188 INFO  HomePage :22 - user clicks on Login Link
+2019-06-10 22:06:189 INFO  LoginPage :40 - enter user name
+2019-06-10 22:06:618 INFO  LoginPage :46 - enter password
+2019-06-10 22:06:886 INFO  LoginPage :52 - click on login button
+2019-06-10 22:06:35 INFO  LoginPage :58 - verify that error message is displayed
+2019-06-10 22:06:160 INFO  HomePage :22 - user clicks on Login Link
+2019-06-10 22:06:161 INFO  LoginPage :40 - enter user name
+2019-06-10 22:06:525 INFO  LoginPage :46 - enter password
+2019-06-10 22:06:836 INFO  LoginPage :52 - click on login button
+2019-06-10 22:06:15 INFO  LoginPage :58 - verify that error message is displayed
+2019-06-10 22:06:547 INFO  HomePage :22 - user clicks on Login Link
+2019-06-10 22:06:548 INFO  HomePage :22 - user clicks on Login Link
+2019-06-10 22:06:639 INFO  LoginPage :30 - verify that user is on Login page
+2019-06-10 22:06:639 INFO  LoginPage :30 - verify that user is on Login page
+2019-06-10 22:06:424 INFO  HomePage :22 - user clicks on Login Link
+2019-06-10 22:06:426 INFO  LoginPage :40 - enter user name
+2019-06-10 22:06:488 INFO  HomePage :22 - user clicks on Login Link
+2019-06-10 22:06:490 INFO  LoginPage :40 - enter user name
+2019-06-10 22:06:425 INFO  LoginPage :46 - enter password
+2019-06-10 22:06:512 INFO  LoginPage :46 - enter password
+2019-06-10 22:06:479 INFO  LoginPage :52 - click on login button
+2019-06-10 22:06:533 INFO  LoginPage :52 - click on login button
+2019-06-10 22:06:851 INFO  LoginPage :58 - verify that error message is displayed
+2019-06-10 22:06:853 INFO  LoginPage :58 - verify that error message is displayed
+2019-06-10 22:06:108 INFO  HomePage :22 - user clicks on Login Link
+2019-06-10 22:06:110 INFO  LoginPage :40 - enter user name
+2019-06-10 22:06:494 INFO  HomePage :22 - user clicks on Login Link
+2019-06-10 22:06:495 INFO  LoginPage :40 - enter user name
+2019-06-10 22:06:36 INFO  LoginPage :46 - enter password
+2019-06-10 22:06:247 INFO  LoginPage :46 - enter password
+2019-06-10 22:06:740 INFO  LoginPage :52 - click on login button
+2019-06-10 22:06:864 INFO  LoginPage :52 - click on login button
+2019-06-10 22:06:899 INFO  LoginPage :58 - verify that error message is displayed
+2019-06-10 22:06:170 INFO  LoginPage :58 - verify that error message is displayed
+2019-06-10 22:06:464 INFO  HomePage :22 - user clicks on Login Link
+2019-06-10 22:06:466 INFO  LoginPage :40 - enter user name
+2019-06-10 22:06:345 INFO  HomePage :22 - user clicks on Login Link
+2019-06-10 22:06:347 INFO  LoginPage :40 - enter user name
+2019-06-10 22:06:579 INFO  LoginPage :46 - enter password
+2019-06-10 22:06:288 INFO  LoginPage :52 - click on login button
+2019-06-10 22:06:708 INFO  LoginPage :46 - enter password
+2019-06-10 22:06:882 INFO  LoginPage :58 - verify that error message is displayed
+2019-06-10 22:06:618 INFO  LoginPage :52 - click on login button
+2019-06-10 22:06:226 INFO  LoginPage :58 - verify that error message is displayed
+2019-06-15 14:06:531 INFO  HomePage :22 - user clicks on Login Link
+2019-06-15 14:06:696 INFO  LoginPage :30 - verify that user is on Login page
+2019-06-15 14:06:507 INFO  HomePage :22 - user clicks on Login Link
+2019-06-15 14:06:509 INFO  LoginPage :40 - enter user name
+2019-06-15 14:06:438 INFO  LoginPage :46 - enter password
+2019-06-15 14:06:00 INFO  LoginPage :52 - click on login button
+2019-06-15 14:06:292 INFO  LoginPage :58 - verify that error message is displayed
+2019-06-15 14:06:369 INFO  HomePage :22 - user clicks on Login Link
+2019-06-15 14:06:373 INFO  LoginPage :40 - enter user name
+2019-06-15 14:06:699 INFO  LoginPage :46 - enter password
+2019-06-15 14:06:46 INFO  LoginPage :52 - click on login button
+2019-06-15 14:06:214 INFO  LoginPage :58 - verify that error message is displayed
+2019-06-15 14:06:567 INFO  HomePage :22 - user clicks on Login Link
+2019-06-15 14:06:571 INFO  LoginPage :40 - enter user name
+2019-06-15 14:06:922 INFO  LoginPage :46 - enter password
+2019-06-15 14:06:264 INFO  LoginPage :52 - click on login button
+2019-06-15 14:06:440 INFO  LoginPage :58 - verify that error message is displayed
